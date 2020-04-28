@@ -20,3 +20,16 @@ C:\Users\b92k\Documents\GitHub\STL-Viewer\STL-Viewer\obj\Debug\STLViewer.AppMain
 C:\Users\b92k\Documents\GitHub\STL-Viewer\STL-Viewer\obj\Debug\STLViewer.AppAboutForm.resources
 C:\Users\b92k\Documents\GitHub\STL-Viewer\STL-Viewer\obj\Debug\STLViewer.AppHowToUseForm.resources
 C:\Users\b92k\Documents\GitHub\STL-Viewer\STL-Viewer\obj\Debug\STL-Viewer.csprojAssemblyReference.cache
+D:\Source\Repos\VS2017\STL-Viewer\STL-Viewer\bin\Debug\STL Viewer.exe.config
+D:\Source\Repos\VS2017\STL-Viewer\STL-Viewer\bin\Debug\STL Viewer.exe
+D:\Source\Repos\VS2017\STL-Viewer\STL-Viewer\bin\Debug\STL Viewer.pdb
+D:\Source\Repos\VS2017\STL-Viewer\STL-Viewer\obj\Debug\STL-Viewer.csprojAssemblyReference.cache
+D:\Source\Repos\VS2017\STL-Viewer\STL-Viewer\obj\Debug\STLViewer.AppAboutForm.resources
+D:\Source\Repos\VS2017\STL-Viewer\STL-Viewer\obj\Debug\STLViewer.AppHowToUseForm.resources
+D:\Source\Repos\VS2017\STL-Viewer\STL-Viewer\obj\Debug\STLViewer.AppMainForm.resources
+D:\Source\Repos\VS2017\STL-Viewer\STL-Viewer\obj\Debug\STLViewer.Properties.Resources.resources
+D:\Source\Repos\VS2017\STL-Viewer\STL-Viewer\obj\Debug\STL-Viewer.csproj.GenerateResource.cache
+D:\Source\Repos\VS2017\STL-Viewer\STL-Viewer\obj\Debug\STL-Viewer.csproj.CoreCompileInputs.cache
+D:\Source\Repos\VS2017\STL-Viewer\STL-Viewer\obj\Debug\STL-Viewer.csproj.CopyComplete
+D:\Source\Repos\VS2017\STL-Viewer\STL-Viewer\obj\Debug\STL Viewer.exe
+D:\Source\Repos\VS2017\STL-Viewer\STL-Viewer\obj\Debug\STL Viewer.pdb
